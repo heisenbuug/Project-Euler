@@ -1,6 +1,6 @@
-# Project Euler #1: Multiples of 3 and 5
+// Project Euler #1: Multiples of 3 and 5
 
-Link To The Question: https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem
+// Link To The Question: https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem
 
 #include <iostream>
 using namespace std;

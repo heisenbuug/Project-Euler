@@ -8,7 +8,7 @@ using namespace std;
 int main(){
     int t;
     cin >> t;
-    for(int a0 = 0; a0 < t; a0++){
+    for(int i = 0; i < t; i++){
         int n;
         cin >> n;
         long a = 0;
